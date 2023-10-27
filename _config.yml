@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 # URL is the base hostname with protocol for your site, eg http://example.com
-url: "https://b-.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.ibeep.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # If you want to install this jekyll in a subpath (eg /digitalgarden) set it here. 
 # Else keep it Empty (DON'T PUT /; Keep it empty)
@@ -27,10 +27,10 @@ baseurl: ""
 
 # Website Header, Description, Footer year and text. 
 # If you are deleting this, make sure you remove it from HTML files too 
-heading: Jekyll Garden # Change this 
-content: Obsidian ready Jekyll Theme
+heading: bri's homecloud blog
+content: an adventure in free software
 copyright:  
-  year: © 2022
+  year: © 2023
   msg: Contents under CC-BY-NC 
 
 # Set title and content for private & broken link tooltop
@@ -107,9 +107,9 @@ defaults:
 # their entries' file path in the `include:` list.
 #
 exclude:
-  - _notes/000 Inbox
-  - _notes/200 Private
-  - _notes/300 Templates
+  - _notes/Drafts
+  - _notes/Secret
+  - _notes/Templates
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/

@@ -1,0 +1,2 @@
+_notes/Drafts/** filter=git-crypt diff=git-crypt
+_notes/Secret/** filter=git-crypt diff=git-crypt
